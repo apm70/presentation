@@ -1,0 +1,80 @@
+/*div{
+	border:solid black 1px;
+}*/
+body{
+	font-family:courier new;
+}
+
+#wrapper{
+	width:900px;
+	position:relative;
+	margin:auto auto;
+}
+
+#hero{
+	width:350px;
+	position:relative;
+	margin:auto auto;
+	
+}
+
+table{
+	border: solid black 2px;
+	width:350px;
+	text-align:center;
+	position:relative;
+	margin:400px auto 0px auto;
+	padding: 15px 0px;
+}
+
+#herotable{
+	font-size:40px;
+}
+
+#undertable{
+	width: 350px;
+	margin-bottom:500px;
+	font-size:20px;
+	text-align:center;
+	font-weight:100;
+	letter-spacing:8px;
+	
+	
+	
+}
+
+.sidebar{
+	width:200px;
+	position:relative;
+	float:left;
+	font-weight:bold;
+}
+
+.content{
+	width:700px;
+	float:right;
+	position:relative;
+	
+}
+
+.clearfix{
+	clear:both;
+}
+
+.section{
+	margin:200px 0px;
+	overflow:hidden;
+}
+
+a:link, a:visited, a:hover, a:active{
+	color:black;
+	text-decoration:underline;
+}
+
+img{
+	height:22px;
+}
+
+#footer{
+	margin-bottom:50px;
+}
